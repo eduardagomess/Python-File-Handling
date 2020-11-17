@@ -7,6 +7,7 @@ Challenges - Geek University - Python Programming
 Make a program that receives the name of two files as input. Each line in the input file contains a person's name and date of birth. The program should read the input file and generate an output file where the person's name appears followed by a string that represents their age.
 
 -if the age is under 18, write "underage"
+
 -if the age is over 18, write "over 18"
 
 2)binary-number.py 
